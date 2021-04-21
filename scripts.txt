@@ -1,0 +1,1 @@
+.\youtube-dl.exe -f m4a --restrict-filenames --output-na-placeholder "0" --yes-playlist --embed-thumbnail --download-archive archive.log --output "./storage/external-1/termux/%(playlist)s/%(channel)s/[%(playlist_index)s]_%(title)s-[%(id)s].m4a" --batch-file "playlist.txt"
